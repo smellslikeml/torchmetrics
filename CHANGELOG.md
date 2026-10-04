@@ -13,7 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
--
+- Added `FrechetVideoDistance` metric for assessing the quality of generated videos, computed from
+  Kinetics-400 pretrained I3D features and the same Fréchet distance as `FrechetInceptionDistance`
+  ([#3515](https://github.com/Lightning-AI/torchmetrics/issues/3515))
 
 
 ### Changed
