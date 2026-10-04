@@ -12,8 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 from torchmetrics.utilities.imports import _TORCH_VMAF_AVAILABLE
+from torchmetrics.video.fvd import FrechetVideoDistance
 
-__all__ = []
+__all__ = ["FrechetVideoDistance"]
 
 if _TORCH_VMAF_AVAILABLE:
     from torchmetrics.video.vmaf import VideoMultiMethodAssessmentFusion
