@@ -32,6 +32,9 @@
 .. _WordErrorRate: https://en.wikipedia.org/wiki/Word_error_rate
 .. _FID: https://en.wikipedia.org/wiki/Fr%C3%A9chet_inception_distance
 .. _MIFID: https://arxiv.org/abs/2106.03062
+.. _FVD: https://arxiv.org/abs/1812.01717
+.. _FVD ref1: https://arxiv.org/abs/1812.01717
+.. _FVD ref2: https://github.com/songweige/content-debiased-fvd
 .. _mean-squared-error: https://en.wikipedia.org/wiki/Mean_squared_error
 .. _SSIM: https://en.wikipedia.org/wiki/Structural_similarity
 .. _explained variance: https://en.wikipedia.org/wiki/Explained_variation
